@@ -84,7 +84,7 @@ PINATA_SECRET_API_KEY=your_pinata_secret_key
 2. Replace the placeholder contract address in constants.json with the deployed contract address.
 3. Update the content of Transactions.json with the ABI file generated during smart contract compilation.
 
-### Run the following commands to build and deploy the frontend:
+### Step 5: Run the following command to build the frontend:
 
 ```bash
 npm run build
