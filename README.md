@@ -56,8 +56,8 @@ Before getting started, ensure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone 
-cd
+git clone [https://github.com/pranjal12-web/Sustainability-Hub-Decentralized-marketplace/tree/main](https://github.com/pranjal12-web/Sustainability-Hub-Decentralized-marketplace/tree/main)
+cd Sustainability-Hub-Decentralized-marketplace
 ```
 
 ### Step 2: Install Dependencies
