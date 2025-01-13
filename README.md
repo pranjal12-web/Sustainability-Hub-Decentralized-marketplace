@@ -58,6 +58,7 @@ Before getting started, ensure you have the following installed:
 ```bash
 git clone 
 cd
+```
 
 ### Step 2: Install Dependencies
 
@@ -67,6 +68,7 @@ Run the following commands to install the required NPM packages:
 npm install
 npm install ethers
 npm install axios
+```
 
 ### Step 3: Configure Environment Variables
 Create a .env.local file in the root directory of the frontend project and add your Pinata API Key and Pinata Secret Key.
@@ -74,6 +76,7 @@ Create a .env.local file in the root directory of the frontend project and add y
 ```bash
 PINATA_API_KEY=your_pinata_api_key
 PINATA_SECRET_API_KEY=your_pinata_secret_key
+```
 
 ### Step 4: Update Contract Details
 
@@ -85,3 +88,4 @@ PINATA_SECRET_API_KEY=your_pinata_secret_key
 
 ```bash
 npm run build
+```
